@@ -10,7 +10,7 @@ Challenges of HAR in aerial videos:
 2) Changing of altitude of the platform that camera is attached to.
 3) Apperance of actor fades as resolution decreases.
 
-# Output classes to learn how to classify
+### Output classes to learn how to classify
 LABELS = [
 'Carrying',
 'Drinking',
@@ -38,7 +38,7 @@ Accuracy is higher for model with LSTM + attention than LSTM and BI-LSTM models.
 
 Focusing on specific regions and sequential(time) models prove to be better for classification for sequential data.
 
-## REFRENCES AND CITATIONS:
+## References and citations:
 
 https://www.mdpi.com/507920
 
@@ -48,7 +48,7 @@ Human Action Recognition using CNN and LSTM-RNN with Attention Model Pothanaicke
 
 Recurrently exploring class-wise attention in a hybrid convolutional and bidirectional LSTM network for multi-label aerial image classification https://doi.org/10.1016/j.isprsjprs.2019.01.015
 
-## FUTURE ENHANCEMENT:
+## Future Enhancement:
 
 1) Different models such as self attention, transformer network and graph attention mechanisms.
 2) Compare the results with these approaches on more recent state-of-art datasets.
