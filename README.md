@@ -1,3 +1,5 @@
+## Human Action Recognition in Aerial View Videos (SOTA: Okutama Dataset)
+
 Human action detection in videos (i.e., series of images) plays an important role in various real-life applications (e.g., visual surveillance and automated driver assistance, surveillance to image and video understanding). Aerial human action detection has several other applications like surveillance using Unmanned Aerial Vehicle (UAV), which provides a wider range of view, higher performance, search and rescue tasks, and human interaction understanding.
 
 The objective of this project is to analyse and provide a novel approach for human action detection using deep learning. I try to establish a specific pattern in my proposed approach.
